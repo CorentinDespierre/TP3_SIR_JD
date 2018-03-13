@@ -1,7 +1,7 @@
 Binôme : Antoine Jouvance & Corentin DESPIERRE-CORPORON
 
 TP mongo
-Réponse aux questions
+Réponses aux questions
 
 Quelles sont les limites d'une base de données orientée documents ?
 Les possiblités de requêtage sont moins fortes (moins de fonctionnalités)et la coherence des données doit être verifiée par le developpeur
